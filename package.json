@@ -63,6 +63,6 @@
           "dev": "vite",
           "build": "vite build --outDir dist",
           "dev": "next",
-          "build": "npm build --outDir dist"
+          "build": "next build --outDir dist"
       }
   }
