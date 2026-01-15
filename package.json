@@ -61,8 +61,6 @@
       },
       "scripts": {
           "dev": "vite",
-          "build": "vite build --outDir dist",
-          "dev": "next",
-          "build": "next build --outDir dist"
+          "build": "vite build --outDir dist"
       }
   }
